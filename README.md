@@ -20,6 +20,7 @@
  ### Onde estou?
   
   * [Linkedin](https://www.linkedin.com/in/pedrotassi/)
+  * pedrotassi@outlook.com
 
 <!---
 pedrotassi/pedrotassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
