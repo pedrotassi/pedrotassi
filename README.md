@@ -1,21 +1,23 @@
-# Olá, sou o Pedro!
+# Hi, i am Pedro!
 <addr>
   
-  Engenheiro de Produção, buscando novos desafios numa das áreas mais importantes do momento e do futuro, a Data Science.
+  Industrial Engineer, seeking for new challenges in the Big Data and Data Science world!
   
-  ### Skills
+  ### Skills [Continuous Improvement]
   
+  * Fluent English
   * Excel 
   * Power BI
   * Scrum
-  * Lean Six Sigma
+  * Lean Six Sigma Yellow Belt
   
-  ### Me dedicando para:
+  ### Learning
   
-  * Análise de Dados
-  * Ciência de Dados
+  * Data Analysis
+  * Data Science
   * Python, SQL, R
   * Machine Learning / IA
+  * Data Visualization
   
  ### Onde estou?
   
