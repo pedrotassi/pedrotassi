@@ -1,11 +1,12 @@
-# Hi, i am Pedro!
+# Olá, sou o Pedro!
 <addr>
   
-  Industrial Engineer, seeking for new challenges in the Big Data and Data Science world!
+  Engenheiro de Produção, em busca de novos desafios no mundo do Big Data e Data Science!
+  Estudando Data Science na FLAI e Mentorama
   
   ### Skills [Continuous Improvement]
   
-  * Fluent English
+  * Inglês fluente
   * Excel 
   * Power BI
   * Scrum
@@ -23,6 +24,10 @@
   
   * [Linkedin](https://www.linkedin.com/in/pedrotassi/)
   * pedrotassi@outlook.com
+  
+  ### Projetos
+  
+   * Visualizção de Dados
 
 <!---
 pedrotassi/pedrotassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
