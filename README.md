@@ -27,7 +27,7 @@
   
   ### Projetos
   
-   * Visualizção de Dados
+   * Visualização de Dados
 
 <!---
 pedrotassi/pedrotassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
