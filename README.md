@@ -12,7 +12,7 @@
   * Scrum
   * Lean Six Sigma Yellow Belt
   
-  ### Learning
+  ### Learning [Lifelong Learning]
   
   * Data Analysis
   * Data Science
@@ -27,7 +27,7 @@
   
   ### Projetos
   
-   * Visualização de Dados
+   * [Visualização de Dados](https://github.com/pedrotassi/datavisual)
 
 <!---
 pedrotassi/pedrotassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
