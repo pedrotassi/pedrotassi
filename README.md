@@ -1,7 +1,8 @@
 # Olá, sou o Pedro!
 <addr>
   
-  Engenheiro de Produção, em busca de novos desafios no mundo do Big Data e Data Science!
+  Engenheiro de Produção, apaixonado por tecnologia e inovação, em busca de novos desafios no mundo do Big Data e Data Science a partir do estudo constante nas áreas de análise   de  dados, negócios, Business Intelligence e Machine Learning, usando ferramentas como Python, SQL e estatística.
+  
   Estudando Data Science na FLAI e Mentorama
   
   ### Skills [Continuous Improvement]
