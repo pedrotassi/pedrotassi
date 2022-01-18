@@ -29,6 +29,7 @@
   ### Projetos
   
    * [Visualização de Dados](https://github.com/pedrotassi/datavisual)
+   * [Mineração de dados de PDF com Python](https://github.com/pedrotassi/datamining_pdf)
 
 <!---
 pedrotassi/pedrotassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
